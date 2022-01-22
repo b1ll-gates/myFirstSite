@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myFirstSite/static/css/main.529da9a1.css",
+    "main.js": "/myFirstSite/static/js/main.9ad6d14e.js",
+    "static/js/787.8ae9adfa.chunk.js": "/myFirstSite/static/js/787.8ae9adfa.chunk.js",
+    "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.6d8671098ca4c7a4154d.png",
+    "static/media/info.png": "/myFirstSite/static/media/info.6784f9c189f23b410139.png",
+    "static/media/leave.png": "/myFirstSite/static/media/leave.f0247d1c0513920e2ae6.png",
+    "static/media/link.png": "/myFirstSite/static/media/link.d565043dbc4969e98497.png",
+    "index.html": "/myFirstSite/index.html",
+    "main.529da9a1.css.map": "/myFirstSite/static/css/main.529da9a1.css.map",
+    "main.9ad6d14e.js.map": "/myFirstSite/static/js/main.9ad6d14e.js.map",
+    "787.8ae9adfa.chunk.js.map": "/myFirstSite/static/js/787.8ae9adfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529da9a1.css",
+    "static/js/main.9ad6d14e.js"
+  ]
+}
