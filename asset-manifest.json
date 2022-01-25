@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/myFirstSite/static/css/main.a699546e.css",
-    "main.js": "/myFirstSite/static/js/main.eccb9950.js",
-    "static/js/787.8ae9adfa.chunk.js": "/myFirstSite/static/js/787.8ae9adfa.chunk.js",
+    "main.css": "/myFirstSite/static/css/main.7d67d6f5.css",
+    "main.js": "/myFirstSite/static/js/main.a5883a22.js",
+    "static/js/27.90b005fb.chunk.js": "/myFirstSite/static/js/27.90b005fb.chunk.js",
     "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.6d8671098ca4c7a4154d.png",
     "static/media/info.png": "/myFirstSite/static/media/info.6784f9c189f23b410139.png",
     "static/media/sperm.svg": "/myFirstSite/static/media/sperm.dc77b0a47cbb67966190944c9e2b4d2c.svg",
@@ -12,13 +12,10 @@
     "static/media/leave.png": "/myFirstSite/static/media/leave.f0247d1c0513920e2ae6.png",
     "static/media/link.png": "/myFirstSite/static/media/link.d565043dbc4969e98497.png",
     "static/media/injection.svg": "/myFirstSite/static/media/injection.424277596827b5d8d6ab01c7ec961df6.svg",
-    "index.html": "/myFirstSite/index.html",
-    "main.a699546e.css.map": "/myFirstSite/static/css/main.a699546e.css.map",
-    "main.eccb9950.js.map": "/myFirstSite/static/js/main.eccb9950.js.map",
-    "787.8ae9adfa.chunk.js.map": "/myFirstSite/static/js/787.8ae9adfa.chunk.js.map"
+    "index.html": "/myFirstSite/index.html"
   },
   "entrypoints": [
-    "static/css/main.a699546e.css",
-    "static/js/main.eccb9950.js"
+    "static/css/main.7d67d6f5.css",
+    "static/js/main.a5883a22.js"
   ]
 }
