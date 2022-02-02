@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myFirstSite/static/css/main.bde0ca4a.css",
-    "main.js": "/myFirstSite/static/js/main.37cc3dab.js",
+    "main.css": "/myFirstSite/static/css/main.a4b15498.css",
+    "main.js": "/myFirstSite/static/js/main.6c0051c8.js",
     "static/js/27.90b005fb.chunk.js": "/myFirstSite/static/js/27.90b005fb.chunk.js",
     "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.6d8671098ca4c7a4154d.png",
     "static/media/info.png": "/myFirstSite/static/media/info.6784f9c189f23b410139.png",
@@ -16,7 +16,7 @@
     "static/media/clock.svg": "/myFirstSite/static/media/clock.d2df5f347823101283c7f7184bd80d40.svg"
   },
   "entrypoints": [
-    "static/css/main.bde0ca4a.css",
-    "static/js/main.37cc3dab.js"
+    "static/css/main.a4b15498.css",
+    "static/js/main.6c0051c8.js"
   ]
 }
