@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myFirstSite/static/css/main.a4b15498.css",
-    "main.js": "/myFirstSite/static/js/main.6c0051c8.js",
-    "static/js/27.90b005fb.chunk.js": "/myFirstSite/static/js/27.90b005fb.chunk.js",
-    "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.6d8671098ca4c7a4154d.png",
-    "static/media/info.png": "/myFirstSite/static/media/info.6784f9c189f23b410139.png",
-    "static/media/sperm.svg": "/myFirstSite/static/media/sperm.dc77b0a47cbb67966190944c9e2b4d2c.svg",
-    "static/media/sperm_die.svg": "/myFirstSite/static/media/sperm_die.7416e38ccc022f17bd485570e2ad7ef4.svg",
-    "static/media/sperm_left.svg": "/myFirstSite/static/media/sperm_left.2fea4d4c99bfc0b23752a70c3fee2996.svg",
-    "static/media/sperm_right.svg": "/myFirstSite/static/media/sperm_right.0bc5106ea52a8c8b67ccafc0cdcd926c.svg",
-    "static/media/leave.png": "/myFirstSite/static/media/leave.f0247d1c0513920e2ae6.png",
-    "static/media/link.png": "/myFirstSite/static/media/link.d565043dbc4969e98497.png",
-    "static/media/injection.svg": "/myFirstSite/static/media/injection.424277596827b5d8d6ab01c7ec961df6.svg",
+    "main.css": "/myFirstSite/static/css/main.03973b52.chunk.css",
+    "main.js": "/myFirstSite/static/js/main.d2d6068a.chunk.js",
+    "runtime~main.js": "/myFirstSite/static/js/runtime~main.d5d4c004.js",
+    "static/js/2.1bc1a0ce.chunk.js": "/myFirstSite/static/js/2.1bc1a0ce.chunk.js",
+    "static/js/3.fd3f3dda.chunk.js": "/myFirstSite/static/js/3.fd3f3dda.chunk.js",
     "index.html": "/myFirstSite/index.html",
-    "static/media/clock.svg": "/myFirstSite/static/media/clock.d2df5f347823101283c7f7184bd80d40.svg"
-  },
-  "entrypoints": [
-    "static/css/main.a4b15498.css",
-    "static/js/main.6c0051c8.js"
-  ]
+    "precache-manifest.5ff4b3faca33f2498124f0c73e9b2553.js": "/myFirstSite/precache-manifest.5ff4b3faca33f2498124f0c73e9b2553.js",
+    "service-worker.js": "/myFirstSite/service-worker.js",
+    "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.9f0bee9f.png",
+    "static/media/clock.svg": "/myFirstSite/static/media/clock.2ad283fe.svg",
+    "static/media/info.png": "/myFirstSite/static/media/info.6a5ccf96.png",
+    "static/media/injection.svg": "/myFirstSite/static/media/injection.678db5cd.svg",
+    "static/media/leave.png": "/myFirstSite/static/media/leave.19b52f0e.png",
+    "static/media/link.png": "/myFirstSite/static/media/link.6f6fd098.png",
+    "static/media/sperm.svg": "/myFirstSite/static/media/sperm.ef121af3.svg",
+    "static/media/sperm_die.svg": "/myFirstSite/static/media/sperm_die.42630ee9.svg",
+    "static/media/sperm_left.svg": "/myFirstSite/static/media/sperm_left.fc63f4b4.svg",
+    "static/media/sperm_right.svg": "/myFirstSite/static/media/sperm_right.8d7d0d36.svg"
+  }
 }
