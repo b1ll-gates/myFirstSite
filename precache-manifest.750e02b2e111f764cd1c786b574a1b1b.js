@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41a5ad45db3b499df135ccfabdda147d",
+    "revision": "7349cd3a80361e79053e1d1b2bfa0f4a",
     "url": "/myFirstSite/index.html"
   },
   {
-    "revision": "9da5f68a9832a9d96f2b",
+    "revision": "80663b6f5657c5bc1c1b",
     "url": "/myFirstSite/static/css/main.80702c19.chunk.css"
   },
   {
-    "revision": "e72b525793f778eaaef0",
-    "url": "/myFirstSite/static/js/2.f41a0344.chunk.js"
+    "revision": "2282e1fe3a37c188320b",
+    "url": "/myFirstSite/static/js/2.4b665bed.chunk.js"
   },
   {
-    "revision": "1c94dec31096ae820880",
-    "url": "/myFirstSite/static/js/3.56679022.chunk.js"
+    "revision": "a0b94a25fec09b5ebcdb",
+    "url": "/myFirstSite/static/js/3.587b9fab.chunk.js"
   },
   {
-    "revision": "9da5f68a9832a9d96f2b",
-    "url": "/myFirstSite/static/js/main.08b278bb.chunk.js"
+    "revision": "80663b6f5657c5bc1c1b",
+    "url": "/myFirstSite/static/js/main.4434140e.chunk.js"
   },
   {
-    "revision": "ead74227e35af0176262",
-    "url": "/myFirstSite/static/js/runtime~main.1b5ae984.js"
+    "revision": "5bc5b0d95d9fe7b28417",
+    "url": "/myFirstSite/static/js/runtime~main.ba93722d.js"
   },
   {
     "revision": "9f0bee9f606125e05a5eb07d751b095c",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myFirstSite/static/media/honk.1c0f93b6.mp3"
   },
   {
-    "revision": "6a5ccf9611132e63df247e90caeb8129",
-    "url": "/myFirstSite/static/media/info.6a5ccf96.png"
+    "revision": "33182c2d3c403c3014428a73d56072bc",
+    "url": "/myFirstSite/static/media/info.33182c2d.svg"
   },
   {
     "revision": "678db5cd945b520ea6e039a6af7ee8fd",
@@ -56,8 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myFirstSite/static/media/link.6f6fd098.png"
   },
   {
-    "revision": "61dcf3794701d1432876962a1d1c8319",
-    "url": "/myFirstSite/static/media/pixelated.61dcf379.png"
+    "revision": "5b1acd3adba38ff313f3d648c2bd60c6",
+    "url": "/myFirstSite/static/media/nftPixelated.5b1acd3a.svg"
+  },
+  {
+    "revision": "b66c232c769e42924c442102d1628777",
+    "url": "/myFirstSite/static/media/nftSpermKing.b66c232c.svg"
   },
   {
     "revision": "31d94a4f23ac2e65d7f52ff2d268a552",
