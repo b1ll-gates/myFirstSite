@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/myFirstSite/static/css/main.80702c19.chunk.css",
-    "main.js": "/myFirstSite/static/js/main.edcd2495.chunk.js",
+    "main.css": "/myFirstSite/static/css/main.c747d510.chunk.css",
+    "main.js": "/myFirstSite/static/js/main.125978e9.chunk.js",
     "runtime~main.js": "/myFirstSite/static/js/runtime~main.ba93722d.js",
     "static/js/2.c16533df.chunk.js": "/myFirstSite/static/js/2.c16533df.chunk.js",
     "static/js/3.587b9fab.chunk.js": "/myFirstSite/static/js/3.587b9fab.chunk.js",
     "index.html": "/myFirstSite/index.html",
-    "precache-manifest.736b46d12fcce2194bae5b7ab04ef14d.js": "/myFirstSite/precache-manifest.736b46d12fcce2194bae5b7ab04ef14d.js",
+    "precache-manifest.ad078bcf8944becea1e58d654de0a03d.js": "/myFirstSite/precache-manifest.ad078bcf8944becea1e58d654de0a03d.js",
     "service-worker.js": "/myFirstSite/service-worker.js",
     "static/media/NwBTC.png": "/myFirstSite/static/media/NwBTC.9f0bee9f.png",
     "static/media/clock.svg": "/myFirstSite/static/media/clock.2ad283fe.svg",
